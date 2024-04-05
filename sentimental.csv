@@ -1,0 +1,905 @@
+,Name,Date Of Birth,Information,sentiment_category
+0,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+1,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+2,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+3,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+4,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+5,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+6,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+7,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+8,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+9,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+10,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+11,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+12,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+13,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+14,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+15,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+16,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+17,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+18,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+19,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+20,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+21,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+22,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+23,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+24,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+25,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+26,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+27,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+28,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+29,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+30,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+31,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+32,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+33,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+34,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+35,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+36,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+37,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+38,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+39,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+40,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+41,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+42,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+43,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+44,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+45,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+46,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+47,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+48,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+49,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+50,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+51,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+52,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+53,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+54,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+55,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+56,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+57,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+58,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+59,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+60,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+61,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+62,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+63,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+64,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+65,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+66,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+67,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+68,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+69,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+70,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+71,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+72,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+73,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+74,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+75,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+76,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+77,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+78,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+79,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+80,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+81,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+82,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+83,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+84,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+85,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+86,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+87,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+88,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+89,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+90,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+91,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+92,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+93,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+94,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+95,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+96,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+97,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+98,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+99,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+100,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+101,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+102,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+103,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+104,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+105,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+106,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+107,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+108,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+109,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+110,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+111,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+112,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+113,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+114,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+115,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+116,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+117,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+118,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+119,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+120,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+121,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+122,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+123,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+124,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+125,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+126,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+127,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+128,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+129,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+130,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+131,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+132,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+133,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+134,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+135,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+136,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+137,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+138,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+139,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+140,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+141,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+142,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+143,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+144,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+145,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+146,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+147,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+148,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+149,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+150,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+151,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+152,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+153,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+154,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+155,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+156,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+157,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+158,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+159,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+160,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+161,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+162,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+163,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+164,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+165,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+166,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+167,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+168,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+169,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+170,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+171,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+172,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+173,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+174,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+175,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+176,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+177,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+178,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+179,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+180,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+181,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+182,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+183,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+184,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+185,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+186,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+187,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+188,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+189,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+190,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+191,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+192,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+193,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+194,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+195,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+196,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+197,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+198,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+199,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+200,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+201,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+202,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+203,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+204,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+205,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+206,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+207,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+208,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+209,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+210,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+211,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+212,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+213,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+214,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+215,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+216,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+217,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+218,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+219,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+220,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+221,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+222,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+223,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+224,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+225,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+226,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+227,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+228,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+229,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+230,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+231,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+232,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+233,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+234,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+235,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+236,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+237,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+238,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+239,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+240,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+241,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+242,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+243,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+244,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+245,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+246,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+247,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+248,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+249,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+250,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+251,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+252,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+253,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+254,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+255,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+256,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+257,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+258,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+259,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+260,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+261,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+262,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+263,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+264,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+265,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+266,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+267,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+268,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+269,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+270,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+271,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+272,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+273,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+274,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+275,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+276,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+277,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+278,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+279,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+280,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+281,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+282,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+283,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+284,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+285,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+286,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+287,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+288,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+289,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+290,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+291,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+292,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+293,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+294,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+295,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+296,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+297,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+298,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+299,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+300,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+301,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+302,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+303,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+304,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+305,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+306,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+307,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+308,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+309,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+310,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+311,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+312,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+313,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+314,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+315,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+316,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+317,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+318,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+319,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+320,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+321,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+322,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+323,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+324,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+325,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+326,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+327,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+328,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+329,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+330,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+331,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+332,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+333,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+334,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+335,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+336,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+337,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+338,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+339,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+340,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+341,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+342,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+343,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+344,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+345,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+346,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+347,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+348,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+349,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+350,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+351,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+352,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+353,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+354,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+355,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+356,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+357,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+358,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+359,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+360,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+361,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+362,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+363,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+364,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+365,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+366,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+367,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+368,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+369,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+370,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+371,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+372,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+373,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+374,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+375,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+376,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+377,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+378,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+379,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+380,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+381,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+382,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+383,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+384,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+385,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+386,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+387,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+388,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+389,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+390,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+391,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+392,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+393,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+394,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+395,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+396,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+397,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+398,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+399,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+400,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+401,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+402,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+403,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+404,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+405,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+406,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+407,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+408,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+409,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+410,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+411,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+412,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+413,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+414,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+415,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+416,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+417,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+418,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+419,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+420,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+421,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+422,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+423,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+424,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+425,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+426,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+427,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+428,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+429,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+430,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+431,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+432,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+433,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+434,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+435,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+436,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+437,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+438,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+439,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+440,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+441,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+442,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+443,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+444,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+445,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+446,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+447,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+448,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+449,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+450,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+451,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+452,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+453,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+454,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+455,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+456,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+457,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+458,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+459,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+460,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+461,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+462,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+463,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+464,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+465,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+466,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+467,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+468,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+469,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+470,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+471,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+472,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+473,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+474,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+475,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+476,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+477,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+478,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+479,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+480,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+481,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+482,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+483,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+484,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+485,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+486,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+487,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+488,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+489,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+490,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+491,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+492,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+493,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+494,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+495,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+496,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+497,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+498,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+499,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+500,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+501,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+502,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+503,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+504,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+505,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+506,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+507,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+508,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+509,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+510,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+511,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+512,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+513,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+514,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+515,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+516,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+517,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+518,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+519,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+520,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+521,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+522,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+523,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+524,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+525,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+526,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+527,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+528,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+529,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+530,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+531,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+532,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+533,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+534,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+535,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+536,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+537,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+538,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+539,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+540,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+541,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+542,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+543,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+544,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+545,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+546,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+547,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+548,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+549,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+550,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+551,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+552,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+553,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+554,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+555,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+556,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+557,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+558,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+559,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+560,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+561,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+562,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+563,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+564,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+565,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+566,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+567,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+568,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+569,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+570,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+571,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+572,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+573,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+574,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+575,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+576,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+577,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+578,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+579,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+580,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+581,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+582,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+583,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+584,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+585,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+586,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+587,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+588,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+589,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+590,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+591,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+592,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+593,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+594,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+595,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+596,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+597,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+598,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+599,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+600,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+601,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+602,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+603,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+604,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+605,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+606,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+607,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+608,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+609,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+610,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+611,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+612,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+613,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+614,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+615,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+616,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+617,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+618,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+619,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+620,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+621,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+622,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+623,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+624,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+625,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+626,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+627,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+628,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+629,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+630,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+631,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+632,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+633,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+634,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+635,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+636,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+637,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+638,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+639,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+640,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+641,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+642,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+643,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+644,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+645,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+646,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+647,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+648,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+649,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+650,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+651,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+652,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+653,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+654,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+655,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+656,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+657,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+658,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+659,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+660,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+661,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+662,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+663,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+664,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+665,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+666,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+667,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+668,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+669,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+670,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+671,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+672,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+673,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+674,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+675,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+676,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+677,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+678,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+679,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+680,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+681,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+682,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+683,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+684,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+685,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+686,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+687,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+688,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+689,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+690,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+691,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+692,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+693,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+694,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+695,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+696,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+697,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+698,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+699,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+700,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+701,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+702,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+703,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+704,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+705,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+706,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+707,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+708,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+709,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+710,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+711,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+712,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+713,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+714,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+715,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+716,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+717,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+718,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+719,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+720,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+721,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+722,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+723,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+724,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+725,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+726,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+727,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+728,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+729,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+730,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+731,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+732,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+733,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+734,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+735,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+736,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+737,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+738,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+739,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+740,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+741,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+742,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+743,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+744,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+745,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+746,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+747,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+748,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+749,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+750,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+751,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+752,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+753,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+754,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+755,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+756,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+757,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+758,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+759,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+760,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+761,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+762,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+763,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+764,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+765,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+766,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+767,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+768,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+769,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+770,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+771,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+772,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+773,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+774,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+775,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+776,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+777,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+778,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+779,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+780,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+781,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+782,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+783,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+784,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+785,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+786,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+787,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+788,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+789,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+790,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+791,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+792,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+793,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+794,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+795,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+796,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+797,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+798,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+799,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+800,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+801,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+802,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+803,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+804,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+805,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+806,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+807,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+808,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+809,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+810,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+811,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+812,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+813,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+814,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+815,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+816,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+817,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+818,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+819,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+820,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+821,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+822,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+823,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+824,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+825,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+826,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+827,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+828,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+829,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+830,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+831,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+832,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+833,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+834,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+835,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+836,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+837,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+838,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+839,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+840,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+841,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+842,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+843,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+844,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+845,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+846,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+847,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+848,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+849,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+850,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+851,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+852,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+853,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+854,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+855,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+856,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+857,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+858,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+859,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+860,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+861,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+862,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+863,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+864,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+865,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+866,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+867,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+868,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+869,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+870,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+871,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+872,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+873,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+874,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+875,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+876,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+877,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+878,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
+879,Douglas L. Aihara,"March 15, 1950,","Sansei male. Born March 15, 1950, in Torrance, California. Grew up in the Los Angeles area, where father sold insurance. Active with Los Angeles' Koyasan …",positive
+880,Yae Aihara,"August 18, 1925","Nisei female. Born August 18, 1925 in Tacoma, Washington. Raised in Seattle, Washington, where family operated a grocery store. Attended Washington Grammar School and Garfield …",neutral
+881,Elaine Akagi,,"In this session, Elaine Kim led a panel of Elaine Reiko Akagi's friends (Ann Fujii Lindwall, Arlene Oki, Karen Yoshitomi, and Bill Tashima) in a …",positive
+882,Nelson Takeo Akagi,"July 27, 1923,","Nisei male. Born July 27, 1923, in Lindsay, California. Following the bombing of Pearl Harbor, moved with family to Idaho for ""voluntary evacuation,"" where they …",neutral
+883,Tom Akashi,"June 7, 1929,","Nisei male. Born June 7, 1929, in Merced, California. Grew up in Mount Eden, California, and was removed to the Tanforan Assembly Center, California, after …",neutral
+884,Mas Akiyama,"May 19, 1917,","Nisei male. Born May 19, 1917, in Eastport, Idaho, and spent childhood in Spokane, Washington. In 1933 traveled to Japan with family where father became …",neutral
+885,Sab Akiyama,"April 7, 1924,","Nisei male. Born April 7, 1924, in Oak Grove, Oregon. Grew up in the Hood River, Oregon, area, where parents ran a farm. During World …",neutral
+886,Sumie Suguro Akizuki,"January 2, 1929,","Nisei female. Born January 2, 1929, in Bellevue, Washington. Grew up in Bellevue before being removed to the Pinedale Assembly Center and Tule Lake concentration …",neutral
+887,Harry Akune,,"Nisei male, born May 20, 1920. During World War II, served as an interpreter with the Military Intelligence Service.",negative
+888,Kenjiro Akune,,"Nisei male, born July 3, 1923. During World War II, served with the Military Intelligence Service.",negative
+889,Gene Akutsu,"September 23, 1925,","Nisei male. Born September 23, 1925, in Seattle, Washington. Spent prewar childhood in Seattle's Nihonmachi. Incarcerated at Puyallup Assembly Center, Washington, and Minidoka concentration camp, …",neutral
+890,Jim Akutsu,"January 25, 1920,","Nisei male. Born January 25, 1920, in Seattle, Washington. Incarcerated at the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Resisted the draft, with …",neutral
+891,Dorothy Almojuela,,"Female of Suquamish and Filipino descent. Born January 25, 1918. Grew up on the Squamish Reservation near Vancouver, British Columbia, Canada. Moved to Bainbridge Island …",neutral
+892,Alice Matsumoto Ando,"January 2, 1933,","Nisei female. Born January 2, 1933, in Portland, Oregon. Grew up in Portland, where parents ran a hotel. During World War II, removed to the …",negative
+893,Emery Brooks Andrews,"November 14, 1937,","White male. Born November 14, 1937, in Seattle, Washington. Son of Reverend Emery Andrews, the Japanese Baptist Church minister in Seattle for many years. After …",neutral
+894,Margie Nahmias Angel,"June 1, 1924,","White female. Born June 1, 1924, in Seattle, Washington. Grew up in the Central District of Seattle where mother ran a boarding house. Discusses her …",neutral
+895,Dan Aoki,"January 31, 1918,","Nisei male. Born January 31, 1918, in Kealakekua, Hawai'i, where his father was a Congregational preacher. During World War II, served with the 100th Battalion …",negative
+896,Nancy K. Araki,"October 16, 1937,","Sansei female. Born October 16, 1937, in San Francisco, California. During World War II, removed to the Granada (Amache) concentration camp, Colorado. Family briefly left …",negative
+897,Sam Araki,"July 12, 1931,","Nisei male. Born July 12, 1931, in Saratoga, California. Grew up in Saratoga, where father worked as a gardener on a large estate. After the …",neutral
+898,Sakaye Aratani,"December 11, 1919,","Nisei female. Born December 11, 1919, in Los Angeles, California. Grew up in Gardena, where parents ran a chicken farm. After the bombing of Pearl …",neutral
+899,Terry Aratani,,"Nisei male. During World War II, served with I Company, part of the 442nd Regimental Combat Team, an all-Japanese American fighting unit and one of …",negative
+900,Kay Aiko Abe,"May 9, 1927,","Nisei female. Born May 9, 1927, in Selleck, Washington. Spent much of childhood in Beaverton, Oregon, where father owned a farm. Influenced at an early …",neutral
+901,Art Abe,"June 12, 1921,","Nisei male. Born June 12, 1921, in Seattle, Washington. Grew up in an area of Seattle with few other Japanese Americans, and was attending the …",neutral
+902,Sharon Tanagi Aburano,"October 31, 1925,","Nisei female. Born October 31, 1925, in Seattle, Washington. Family owned and operated a successful grocery store prior to World War II. After the bombing …",neutral
+903,Toshiko Aiboshi,"July 8, 1928,","Nisei female. Born July 8, 1928, in Boyle Heights, California. At an early age, went to live with family friends when father passed away and …",positive
